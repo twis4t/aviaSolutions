@@ -1,5 +1,6 @@
 html,body{
     font-family: "Myriad Pro", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
 }
 b{
     font-weight: 600;
@@ -79,7 +80,7 @@ b{
     border-radius: 50px;
     border: solid 2px #00a8ff;
     color: #626877;
-    padding: 5px 10px;
+    padding: 8px 10px;
     font-size: 14px;
     min-width: 220px;
 }
